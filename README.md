@@ -7,7 +7,7 @@ I'm a software developer based in Athens, Greece, building web platforms, APIs a
 I enjoy turning ideas into real products — from backend architecture and databases to frontend interfaces, deployment and production infrastructure.
 
 - 💻 Full-Stack Web & Software Developer
-- 🚀 Founder of [AgoraSite](https://agorasite.gr)
+- 🚀 Building [AgoraSite](https://agorasite.gr)
 - 🏍️ Building [Ridonio](https://ridonio.com)
 - 🤖 Building [CodeCraft](https://codecraft.gr)
 - 🥊 Boxing & running enthusiast
